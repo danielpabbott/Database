@@ -1,0 +1,16 @@
+{
+  "name": "smart-home-database",
+  "version": "1.0.0",
+  "description": "database for the smart home project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "knex": "^0.11.10",
+    "pg": "^6.1.0"
+  }
+}
