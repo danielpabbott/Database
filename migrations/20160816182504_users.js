@@ -5,6 +5,7 @@ exports.up = function(knex, Promise) {
     table.string('username');
     table.string('password');
     table.integer('zip');
+    table.integer('phone');
   });
 };
 
